@@ -1,0 +1,4 @@
+include ':food'
+rootProject.name = 'HelloKMP'
+
+include ':app'
